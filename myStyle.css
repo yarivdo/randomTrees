@@ -1,0 +1,21 @@
+h1 {
+    font-family: Gill Sans, Copperplate, Verdana, Century Gothic, Arial;
+    color: darkmagenta;
+}
+
+#btnRandomize {
+    background-color: darkcyan;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    font-size: 15px;
+    height: 2em;
+    width: 10%;
+    margin: 15px;
+        
+}
+
+#result {
+    width: 100%;
+    height: auto;
+}
